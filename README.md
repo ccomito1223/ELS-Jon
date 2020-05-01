@@ -18,6 +18,7 @@ feed direction.
 
 An attempt was made to implement every pitch available on a Logan Lathe Quick-Change Gearbox,
 every standard inch and metric tap and die size available from McMaster-Carr up to 4tpi and 6.5mm,
+every legible pitch shown in photographs of the feed plates on lathes found through internet searches,
 as well as a number of diametral and module worm gear pitches.  The maximum rates were limited 
 for practical reasons, this being a relatively light-duty lathe.
 
