@@ -23,10 +23,14 @@ for practical reasons, this being a relatively light-duty lathe.
 
 Version 1.0 Features:
 
-Inch feeds and threads from 0.0005" to 0.250" (4tpi), 
-  Metric from 0.01mm to 6.5mm (including standard 0-10 British Association pitches)
-  Diametral worm gear pitches from 120 to 12
-  Module worm gear pitches from 0.2 to 2
-  Programmable left and right feed limits
+Inch feeds and threads from 0.0005" to 0.250" (4tpi)
+
+Metric from 0.01mm to 6.5mm (including standard 0-10 British Association pitches)
+
+Diametral worm gear pitches from 120 to 12
+
+Module worm gear pitches from 0.2 to 2
+
+Programmable left and right feed limits
 
 Please visit and subscribe @ https://www.youtube.com/channel/UCw5ORyB1lIvQSxHoaDNEYuA
