@@ -21,7 +21,8 @@ An attempt was made to implement every pitch available on a standard Logan lathe
 every inch and metric tap and die size available from McMaster-Carr up to 4tpi and 6.5mm, and
 every legible pitch shown in photographs of the feed plates on lathes found through internet searches,
 as well as a large selection of diametral and module worm gear pitches.  The maximum rates were limited 
-for practical reasons, this being a relatively light-duty lathe.
+for practical reasons, both because the Logan Model 200 is a relatively light-duty lathe and because of
+the stall torque limit of the microstepping motor/driver.
 
 Version 1.0 Features:
 
