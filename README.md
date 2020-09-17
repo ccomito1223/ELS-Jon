@@ -1,6 +1,9 @@
 # ELS-Jon
 Electronic Lead Screw - By  Jon Bryan
 
+IMPORTANT USER NOTICE:
+Always reprogram both the Arduino and Nextion together to avoid compatibility issues!
+
 This repository is an attempt to document the development and implementation of a microcontroller-
 based Electronic Lead Screw specifically intended for a 1946 Logan Model 200 lathe, but the
 fundamental design principles have much broader potential applications.
